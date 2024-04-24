@@ -1,0 +1,4 @@
+cd 0x01_emacs
+touch opening
+echo 'C-x C-f' > opening
+cat opening

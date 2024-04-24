@@ -1,0 +1,6 @@
+touch saving
+vi saving
+press i for INSERT mode
+C-x C-s
+then press :wq to save and quit
+cat saving
