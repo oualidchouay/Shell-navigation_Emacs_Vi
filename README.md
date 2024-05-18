@@ -4,6 +4,6 @@ This is the first directory in the programm and it is contains the following fol
 - [0x01. Emacs](./0x01-Emacs/)
 - [0x02. vi](./0x02-Vi/)
 
-### Author:
------------
-https://github.com/oualidchouay
+## Author
+
+- [oualidchouay](https://github.com/oualidchouay)
